@@ -1,7 +1,7 @@
 # CarSales_dashboard
 ![image](https://github.com/user-attachments/assets/9e4a9dc1-2d9f-435c-9a08-792bae28ca4e)
 
-The dashboard above highlights trends in average selling prices,total number of cars sold for various car brands from 1994 to 2020
+The dashboard above highlights trends in average selling prices, total number of cars sold for various car brands from 1994 to 2020
 
 Here are the key insights for each chart in the dashboard:
 
