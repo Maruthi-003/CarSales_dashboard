@@ -22,3 +22,9 @@ Here are the key insights for each chart in the dashboard:
 
 ### 6. Average Selling Price vs. Kilometers Driven
 - **Key Insights**: Cars with fewer kilometers driven have significantly higher average selling prices, reaffirming that lower mileage is a critical factor in determining the resale value of a vehicle. The price tends to decrease as the kilometers driven increase.
+
+
+
+Name:B Maruthi kumar                                                                                                                          
+email : maruthikumarbandaru@gmail.com                                                                                                          
+LinkedIn : https://www.linkedin.com/in/maruthi-kumar-328537258/
